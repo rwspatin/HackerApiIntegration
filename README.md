@@ -8,7 +8,7 @@ Api to return a random quiz
       Swagger
 
 ### Integration
-    Get informations of [HackerNewsAPI](https://github.com/HackerNews/API)
+Get informations of [HackerNewsAPI](https://github.com/HackerNews/API)
     
 ### How to Use
 - Clone this project
